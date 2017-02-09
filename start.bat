@@ -1,0 +1,1 @@
+D:\php-5.6.26\php.exe -S 0.0.0.0:9090 -t E:\phpworkspace\yii2.09\web
